@@ -1,0 +1,10 @@
+openai
+python-dotenv
+uvicorn
+fastapi
+pydantic
+python-multipart
+streamlit
+requests
+deepgram-sdk
+groq
